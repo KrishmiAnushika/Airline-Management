@@ -1,0 +1,108 @@
+.error{
+    border:1px solid red !important;
+}
+.recycle{
+    width:30px;
+    height:30px;
+    background-image: url("../images/recyclebin.png");
+    background-size:contain;
+}
+.recycle:hover{
+    background-image: url("../images/recyclebin-hover.png");
+}
+#body{
+    background-color: white;
+    height: 1366px;
+    width: 766px;
+}
+#image{
+    background-image: url("../images/pimage.jpg");
+    opacity: 0.9;
+    height:300px;
+    width: 1141px;
+    position: absolute;
+    left: 0px;
+
+}
+#image1{
+    background-color: darkblue;
+    opacity: 1;
+    height: 550px;
+    width: 1141px;
+    position: absolute;
+    left: 100px;
+    border: ridge;
+}
+#tit{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-style: normal;
+
+}
+#con{
+    background-color: darkslategray;
+    opacity: 1;
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    left: 880px;
+    border: ridge;
+}
+#un{
+    text-align: left;
+    font-style: oblique;
+    font-size: 20px;
+    color: black;
+}
+#up{
+    text-align: left;
+    font-style: oblique;
+    font-size: 20px;
+    color: black;
+}
+#fp{
+    color: red;
+    text-align: center;
+}
+#btu{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+    background-color: #28a4c9;
+    position: absolute;
+    left: 30px;
+}
+#bta{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+    background-color: #28a4c9;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+}
+#bt{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+}
+#btus{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+}
+#a{
+    color: red;
+}
+#fot{
+    position: absolute;
+    top: 550px;
+    left: 480px;
+    text-align: center;
+    width: 400px;
+}
